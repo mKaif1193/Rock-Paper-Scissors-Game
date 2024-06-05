@@ -1,6 +1,6 @@
 ## Rock Paper Scissor Game
 
-#### In this project I use:
+#### In this project I used:
 
 - HTML
 - CSS
